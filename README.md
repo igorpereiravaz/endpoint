@@ -1,3 +1,3 @@
 # endpoint
 
-O projeto encontra-se na branch Main
+O projeto encontra-se na branch Master
